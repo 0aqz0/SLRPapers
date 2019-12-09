@@ -10,6 +10,20 @@ papers on sign language recognition and related fields
 
 ## Papers
 
+### HMM
+
+
+
+### CNN+LSTM
+
+
+
+### 3D CNN
+
+
+
+### GCN
+
 
 
 ## Datasets
