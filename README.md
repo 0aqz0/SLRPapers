@@ -24,7 +24,7 @@ papers on sign language recognition and related fields
 
 ### GCN
 
-
+1. **Spatial-Temporal Graph Convolutional Networks for Sign Language Recognition** `ICANN2019` [*paper*](https://arxiv.org/pdf/1901.11164.pdf) [*code*](https://github.com/amorim-cleison/st-gcn-sl)
 
 ## Datasets
 
@@ -36,6 +36,6 @@ papers on sign language recognition and related fields
 
 ### Action Recognition
 
-1. **Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet?** `CVPR2018` [*paper*]() [*code*](https://github.com/kenshohara/3D-ResNets-PyTorch)
+1. **Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet?** `CVPR2018` [*paper*](https://arxiv.org/pdf/1711.09577.pdf) [*code*](https://github.com/kenshohara/3D-ResNets-PyTorch)
 2. **Graph Convolutional Networks for Temporal Action Localization** `ICCV2019` [*paper*](https://arxiv.org/pdf/1909.03252) [*code*](https://github.com/Alvin-Zeng/PGCN)
 
