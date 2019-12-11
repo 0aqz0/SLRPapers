@@ -16,9 +16,15 @@ papers on sign language recognition and related fields
 
 ### CNN+LSTM
 
+1. **SF-Net: Structured Feature Network for Continuous Sign Language Recognition** `CVPR2019` [*paper*](https://arxiv.org/pdf/1908.01341.pdf) *code*
+
+2. **SubUNets: End-to-End Hand Shape and Continuous Sign Language Recognition** `ICCV2017` [*paper*](http://openaccess.thecvf.com/content_ICCV_2017/papers/Camgoz_SubUNets_End-To-End_Hand_ICCV_2017_paper.pdf) [*code*](https://github.com/neccam/SubUNets)
+
 
 
 ### 3D CNN
+
+1. **Video-based sign language recognition without temporal segmentation** `AAAI2018` [*paper*](https://arxiv.org/pdf/1801.10111.pdf) *code*
 
 
 
