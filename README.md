@@ -38,6 +38,9 @@ papers on sign language recognition and related fields
 2. **[RWTH-PHOENIX-Weather-2014](https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX/)**
 3. **[American Sign Language Lexicon Video Dataset(ASLLVD)](http://www.bu.edu/asllrp/av/dai-asllvd.html)**
 4. **[ASLLVD-Skeleton](https://www.cin.ufpe.br/~cca5/asllvd-skeleton/)**
+5. **[SIGNUM](https://www.phonetik.uni-muenchen.de/forschung/Bas/SIGNUM/)**
+
+
 
 ## Related Fields
 
