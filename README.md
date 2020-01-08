@@ -77,9 +77,21 @@ papers on sign language recognition and related fields
 
 ### Action Recognition
 
-1. **Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet?** `CVPR2018` [*paper*](https://arxiv.org/pdf/1711.09577.pdf) [*code*](https://github.com/kenshohara/3D-ResNets-PyTorch)
-2. **Graph Convolutional Networks for Temporal Action Localization** `ICCV2019` [*paper*](https://arxiv.org/pdf/1909.03252) [*code*](https://github.com/Alvin-Zeng/PGCN)
-3. **Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition** `AAAI2018` [*paper*](https://arxiv.org/pdf/1801.07455.pdf) [*code*](https://github.com/yysijie/st-gcn)
+1. **DistInit: Learning Video Representations Without a Single Labeled Video** `ICCV2019` [*paper*](https://arxiv.org/pdf/1901.09244.pdf) *code*
+2. **SCSampler: Sampling Salient Clips from Video for Efficient Action Recognition** `ICCV2019` [*paper*](http://openaccess.thecvf.com/content_ICCV_2019/papers/Korbar_SCSampler_Sampling_Salient_Clips_From_Video_for_Efficient_Action_Recognition_ICCV_2019_paper.pdf) *code*
+3. **Reasoning About Human-Object Interactions Through Dual Attention Networks** `ICCV2019` [*paper*](https://arxiv.org/pdf/1909.04743) *code*
+4. **SlowFast Networks for Video Recognition** `ICCV2019` [*paper*](http://openaccess.thecvf.com/content_ICCV_2019/papers/Feichtenhofer_SlowFast_Networks_for_Video_Recognition_ICCV_2019_paper.pdf) [*code*](https://github.com/facebookresearch/SlowFast)
+5. **Video Classification with Channel-Separated Convolutional Networks** `ICCV2019` [*paper*](https://arxiv.org/pdf/1904.02811) [*code*](https://github.com/facebookresearch/VMZ)
+6. **BMN: Boundary-Matching Network for Temporal Action Proposal Generation** `ICCV2019` [*paper*](https://arxiv.org/pdf/1907.09702) [*code*](https://github.com/JJBOY/BMN-Boundary-Matching-Network)
+7. **DynamoNet: Dynamic Action and Motion Network** `ICCV2019` [*paper*](https://arxiv.org/pdf/1904.11407.pdf) *code*
+8. **Graph Convolutional Networks for Temporal Action Localization** `ICCV2019` [*paper*](https://arxiv.org/pdf/1909.03252) [*code*](https://github.com/Alvin-Zeng/PGCN)
+9. **Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet?** `CVPR2018` [*paper*](https://arxiv.org/pdf/1711.09577.pdf) [*code*](https://github.com/kenshohara/3D-ResNets-PyTorch)
+10. **Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition** `AAAI2018` [*paper*](https://arxiv.org/pdf/1801.07455.pdf) [*code*](https://github.com/yysijie/st-gcn)
+11. **Co-occurrence Feature Learning from Skeleton Data for Action Recognition and Detection with Hierarchical Aggregation** `IJCAI2018` [*paper*](https://arxiv.org/pdf/1804.06055) [*code*](https://github.com/huguyuehuhu/HCN-pytorch)
+12. **Action Recognition with Trajectory-Pooled Deep-Convolutional Descriptors** `CVPR2015` [*paper*](https://arxiv.org/pdf/1505.04868) [*code*](https://github.com/wanglimin/TDD)
+13. **Two-Stream Convolutional Networks for Action Recognition in Videos** `NIPS2014` [*paper*](https://arxiv.org/pdf/1406.2199.pdf) [*code*](https://github.com/jeffreyyihuang/two-stream-action-recognition)
+
+
 
 ### Speech Recognition
 
