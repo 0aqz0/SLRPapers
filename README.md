@@ -29,7 +29,7 @@ papers on sign language recognition and related fields
 8. **Advances in phonetics-based sub-unit modeling for transcription alignment and sign language recognition** `CVPRW2011` [*paper*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5981681&tag=1) *code*
 9. **Speech Recognition Techniques for a Sign Language Recognition System** `INTERSPEECH2007` [*paper*](https://www-i6.informatik.rwth-aachen.de/publications/download/154/DreuwPhilippeRybachDavidDeselaersThomasZahediMortezaNeyHermann--SpeechRecognitionTechniquesforaSignLanguageRecognitionSystem--2007.pdf) *code*
 10. **Large-Vocabulary Continuous Sign Language Recognition Based on Transition-Movement Models** `TSMC2007` [*paper*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4032919) *code*
-11. **Real-time American sign language recognition using desk and wearable computer based video** `IEEE T PATTERN ANAL1998`  [*paper*](http://luthuli.cs.uiuc.edu/~daf/courses/Signals AI/Papers/HMMs/00735811.pdf) *code*
+11. **Real-time American sign language recognition using desk and wearable computer based video** `TPAMI1998`  [*paper*](http://luthuli.cs.uiuc.edu/~daf/courses/Signals%20AI/Papers/HMMs/00735811.pdf) *code*
 
 
 
