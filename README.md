@@ -5,7 +5,7 @@ papers on sign language recognition and related fields
 
 - **[Papers](#papers)**
   - [HMM](#hmm)
-  - [CNN+RNN](#cnn+rnn)
+  - [CNN+RNN](#cnnrnn)
   - [3D CNN](#3d-cnn)
   - [GCN](#gcn)
   - [Others](#others)
@@ -33,7 +33,7 @@ papers on sign language recognition and related fields
 
 
 
-### CNN+RNN
+### CNN+RNN <a name="cnnrnn"></a>
 
 *CNN includes 2D CNN and 3D CNN, and RNN includes LSTM and BLSTM.*
 
@@ -55,7 +55,7 @@ papers on sign language recognition and related fields
 
 
 
-###GCN
+### GCN
 
 1. **Spatial-Temporal Graph Convolutional Networks for Sign Language Recognition** `ICANN2019` [*paper*](https://arxiv.org/pdf/1901.11164.pdf) [*code*](https://github.com/amorim-cleison/st-gcn-sl)
 
