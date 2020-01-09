@@ -84,11 +84,26 @@ papers on sign language recognition and related fields
 
 ## Datasets
 
-1. **[Chinese Sign Language(CSL)](http://home.ustc.edu.cn/~pjh/openresources/cslr-dataset-2015/index.html)**
-2. **[RWTH-PHOENIX-Weather-2014](https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX/)**
-3. **[American Sign Language Lexicon Video Dataset(ASLLVD)](http://www.bu.edu/asllrp/av/dai-asllvd.html)**
-4. **[ASLLVD-Skeleton](https://www.cin.ufpe.br/~cca5/asllvd-skeleton/)**
-5. **[SIGNUM](https://www.phonetik.uni-muenchen.de/forschung/Bas/SIGNUM/)**
+| Dataset                                                      | Language    | Classes | Samples | Data Type                    | Language Level |
+| ------------------------------------------------------------ | ----------- | ------- | ------- | ---------------------------- | :------------- |
+| **[CSL Dataset I](http://home.ustc.edu.cn/~pjh/openresources/cslr-dataset-2015/index.html)** | Chinese     | 500     | 125,000 | Videos&Depth from Kinect     | isolated       |
+| **[CSL Dataset II](http://home.ustc.edu.cn/~pjh/openresources/cslr-dataset-2015/index.html)** | Chinese     | 100     | 25,000  | Videos&Depth from Kinect     | continuous     |
+| **[RWTH-PHOENIX-Weather-2014](https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX/)** | German      | 1,200   | 45,760  | Videos                       | continuous     |
+| **[ASLLVD](http://www.bu.edu/asllrp/av/dai-asllvd.html)**    | American    | 3,300   | 9,800   | Videos(multiple angles)      | isolated       |
+| **[ASLLVD-Skeleton](https://www.cin.ufpe.br/~cca5/asllvd-skeleton/)** | American    | 3,300   | 9,800   | Skeleton                     | isolated       |
+| **[SIGNUM](https://www.phonetik.uni-muenchen.de/forschung/Bas/SIGNUM/)** | German      | 450     | 33,210  | Videos                       | continuous     |
+| [**DGS Kinect 40**](http://personal.ee.surrey.ac.uk/Personal/H.Cooper/research/papers/Ong_Sign_2012.pdf) | German      | 40      | 3,000   | Videos(multiple angles)      | isolated       |
+| [**DEVISIGN-G**](http://vipl.ict.ac.cn/homepage/ksl/data.html) | Chinese     | 36      | 432     | Videos                       | isolated       |
+| [**DEVISIGN-D**](http://vipl.ict.ac.cn/homepage/ksl/data.html) | Chinese     | 500     | 6,000   | Videos                       | isolated       |
+| [**DEVISIGN-L**](http://vipl.ict.ac.cn/homepage/ksl/data.html) | Chinese     | 2000    | 24,000  | Videos                       | isolated       |
+| [**LSA64**](http://facundoq.github.io/unlp/lsa64/)           | Argentinian | 64      | 3,200   | Videos                       | isolated       |
+| [**GSL isol.**](https://vcl.iti.gr/dataset/gsl/)             | Greek       | 310     | 40,785  | Videos&Depth from RealSense  | isolated       |
+| [**GSL SD**](https://vcl.iti.gr/dataset/gsl/)                | Greek       | 310     | 10,290  | Videos&Depth from RealSense  | continuous     |
+| [**GSL SI**](https://vcl.iti.gr/dataset/gsl/)                | Greek       | 310     | 10,290  | Videos&Depth from RealSense  | continuous     |
+| [**IIITA -ROBITA**](https://robita.iiita.ac.in/dataset.php)  | Indian      | 23      | 605     | Videos                       | isolated       |
+| [**PSL Kinect**](http://vision.kia.prz.edu.pl/dynamickinect.php) | Polish      | 30      | 300     | Videos&Depth from Kinect     | isolated       |
+| [**PSL ToF**](http://vision.kia.prz.edu.pl/dynamictof.php)   | Polish      | 84      | 1,680   | Videos&Depth from ToF camera | isolated       |
+| [**BUHMAP-DB**](https://www.cmpe.boun.edu.tr/pilab/pilabfiles/databases/buhmap/) | Turkish     | 8       | 440     | Videos                       | isolated       |
 
 
 
@@ -118,5 +133,3 @@ papers on sign language recognition and related fields
 2. **Listen, Attend and Spell** `ICASSP2016` [*paper*](https://arxiv.org/pdf/1508.01211v2.pdf) [*code*](https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch)
 
 
-
- 
