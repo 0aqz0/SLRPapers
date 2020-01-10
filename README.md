@@ -129,7 +129,13 @@ papers on sign language recognition and related fields
 
 ### Speech Recognition
 
-1. **Lip Reading Sentences in the Wild** `CVPR2017` [*paper*](https://arxiv.org/pdf/1611.05358.pdf) [*code*](https://github.com/ajinkyaT/Lip_Reading_in_the_Wild_AVSR)
-2. **Listen, Attend and Spell** `ICASSP2016` [*paper*](https://arxiv.org/pdf/1508.01211v2.pdf) [*code*](https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch)
-
+1. **State-of-the-art Speech Recognition With Sequence-to-Sequence Models** ` ICASSP2018` [*paper*](https://arxiv.org/pdf/1712.01769.pdf) *code*
+2. **Lip Reading Sentences in the Wild** `CVPR2017` [*paper*](https://arxiv.org/pdf/1611.05358.pdf) [*code*](https://github.com/ajinkyaT/Lip_Reading_in_the_Wild_AVSR)
+3. **Listen, Attend and Spell** `ICASSP2016` [*paper*](https://arxiv.org/pdf/1508.01211v2.pdf) [*code*](https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch)
+4. **Deep speech 2: End-to-end speech recognition in english and mandarin** `ICML2016` [*paper*](http://proceedings.mlr.press/v48/amodei16.pdf) [*code*](https://github.com/PaddlePaddle/DeepSpeech)
+5. **Attention-Based Models for Speech Recognition** `NIPS2015` [*paper*](https://papers.nips.cc/paper/5847-attention-based-models-for-speech-recognition.pdf) *code*
+6. **Convolutional Neural Networks for Speech Recognition** `TASLP2014` [*paper*](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/CNN_ASLPTrans2-14.pdf) [*code*](https://github.com/cmaroti/speech_recognition)
+7. **Hybrid speech recognition with Deep Bidirectional LSTM** `ASRU2013` [*paper*](https://www.cs.toronto.edu/~graves/asru_2013.pdf) *code*
+8. **New types of deep neural network learning for speech recognition and related applications: an overview** `ICASSP2013` [*paper*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6639344) *code*
+9. **Speech Recognition with Deep Recurrent Neural Networks** `ICASSP2013` [*paper*](https://arxiv.org/pdf/1303.5778.pdf) [*code*](https://github.com/lucko515/speech-recognition-neural-network)
 
