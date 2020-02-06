@@ -45,6 +45,7 @@ papers on sign language recognition and related fields
 6. **Hierarchical LSTM for Sign Language Translation** `AAAI2018` [*paper*](https://pdfs.semanticscholar.org/d44c/20c48e764a546d00b9155a56b171b0dc04bc.pdf) *code*
 7. **Neural Sign Language Translation** `CVPR2018` [*paper*](http://openaccess.thecvf.com/content_cvpr_2018/papers/Camgoz_Neural_Sign_Language_CVPR_2018_paper.pdf) [*code*](https://github.com/neccam/nslt)
 8. **SubUNets: End-to-End Hand Shape and Continuous Sign Language Recognition** `ICCV2017` [*paper*](http://openaccess.thecvf.com/content_ICCV_2017/papers/Camgoz_SubUNets_End-To-End_Hand_ICCV_2017_paper.pdf) [*code*](https://github.com/neccam/SubUNets)
+9. **Recurrent Convolutional Neural Networks for Continuous Sign Language Recognition by Staged Optimization** `CVPR2017` [*paper*](http://openaccess.thecvf.com/content_cvpr_2017/papers/Cui_Recurrent_Convolutional_Neural_CVPR_2017_paper.pdf) *code*
 
 
 
