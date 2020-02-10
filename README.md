@@ -42,17 +42,20 @@ papers on sign language recognition and related fields
 3. **Fingerspelling recognition in the wild with iterative visual attention** `ICCV2019` [*paper*](https://arxiv.org/pdf/1908.10546.pdf) *code*
 4. **Zero-Shot Sign Language Recognition: Can Textual Data Uncover Sign Languages?** `BMVC2019` [*paper*](https://arxiv.org/pdf/1907.10292.pdf) *code*
 5. **Sign Language Recognition Analysis using Multimodal Data** `DSAA2019` [*paper*](https://arxiv.org/pdf/1909.11232.pdf) *code*
-6. **Hierarchical LSTM for Sign Language Translation** `AAAI2018` [*paper*](https://pdfs.semanticscholar.org/d44c/20c48e764a546d00b9155a56b171b0dc04bc.pdf) *code*
-7. **Neural Sign Language Translation** `CVPR2018` [*paper*](http://openaccess.thecvf.com/content_cvpr_2018/papers/Camgoz_Neural_Sign_Language_CVPR_2018_paper.pdf) [*code*](https://github.com/neccam/nslt)
-8. **SubUNets: End-to-End Hand Shape and Continuous Sign Language Recognition** `ICCV2017` [*paper*](http://openaccess.thecvf.com/content_ICCV_2017/papers/Camgoz_SubUNets_End-To-End_Hand_ICCV_2017_paper.pdf) [*code*](https://github.com/neccam/SubUNets)
-9. **Recurrent Convolutional Neural Networks for Continuous Sign Language Recognition by Staged Optimization** `CVPR2017` [*paper*](http://openaccess.thecvf.com/content_cvpr_2017/papers/Cui_Recurrent_Convolutional_Neural_CVPR_2017_paper.pdf) *code*
+6. **Dynamic Sign Language Recognition Based on Video Sequence With BLSTM-3D Residual Networks** `ACCESS2019` [*paper*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8667292) *code*
+7. **Hierarchical LSTM for Sign Language Translation** `AAAI2018` [*paper*](https://pdfs.semanticscholar.org/d44c/20c48e764a546d00b9155a56b171b0dc04bc.pdf) *code*
+8. **Neural Sign Language Translation** `CVPR2018` [*paper*](http://openaccess.thecvf.com/content_cvpr_2018/papers/Camgoz_Neural_Sign_Language_CVPR_2018_paper.pdf) [*code*](https://github.com/neccam/nslt)
+9. **SubUNets: End-to-End Hand Shape and Continuous Sign Language Recognition** `ICCV2017` [*paper*](http://openaccess.thecvf.com/content_ICCV_2017/papers/Camgoz_SubUNets_End-To-End_Hand_ICCV_2017_paper.pdf) [*code*](https://github.com/neccam/SubUNets)
+10. **Recurrent Convolutional Neural Networks for Continuous Sign Language Recognition by Staged Optimization** `CVPR2017` [*paper*](http://openaccess.thecvf.com/content_cvpr_2017/papers/Cui_Recurrent_Convolutional_Neural_CVPR_2017_paper.pdf) *code*
 
 
 
 ### 3D CNN
 
-1. **Video-based sign language recognition without temporal segmentation** `AAAI2018` [*paper*](https://arxiv.org/pdf/1801.10111.pdf) *code*
-2. **Sign Language Recognition using 3D convolutional neural networks** `ICME2015` [*paper*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7177428) *code*
+1. **Dense Temporal Convolution Network for Sign Language Translation** `IJCAI2019` [*paper*](https://www.ijcai.org/Proceedings/2019/0105.pdf) *code*
+2. **Thai Sign Language Recognition Using 3D Convolutional Neural Networks** `ICCCM2019` [*paper*](https://dl.acm.org/doi/pdf/10.1145/3348445.3348452?download=true) *code*
+3. **Video-based sign language recognition without temporal segmentation** `AAAI2018` [*paper*](https://arxiv.org/pdf/1801.10111.pdf) *code*
+4. **Sign Language Recognition using 3D convolutional neural networks** `ICME2015` [*paper*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7177428) *code*
 
 
 
@@ -68,6 +71,10 @@ papers on sign language recognition and related fields
 
 1. **Re-Sign: Re-Aligned End-to-End Sequence Modelling with Deep Recurrent CNN-HMMs** `CVPR2017` [*paper*](https://www-i6.informatik.rwth-aachen.de/publications/download/1031/KollerOscarZargaranSepehrNeyHermann--Re-SignRe-AlignedEnd-to-EndSequenceModellingwithDeepRecurrentCNN-HMMs--2017.pdf) [*code*](https://github.com/huerlima/Re-Sign-Re-Aligned-End-to-End-Sequence-Modelling-with-Deep-Recurrent-CNN-HMMs)
 2. **Deep Sign: Hybrid CNN-HMM for Continuous Sign Language Recognition** `BMVC2016` [*paper*](https://pdfs.semanticscholar.org/7b2f/db4a2f79a638ad6c5328cd2860b63fdfc100.pdf) *code*
+
+#### CNN
+
+1. **Human-like sign-language learning method using deep learning** `ETRI2018` [*paper*](https://onlinelibrary.wiley.com/doi/pdf/10.4218/etrij.2018-0066) *code*
 
 #### LSTM
 
