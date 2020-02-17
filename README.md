@@ -67,26 +67,14 @@ papers on sign language recognition and related fields
 
 ### Others
 
-#### CNN+HMM
-
-1. **Re-Sign: Re-Aligned End-to-End Sequence Modelling with Deep Recurrent CNN-HMMs** `CVPR2017` [*paper*](https://www-i6.informatik.rwth-aachen.de/publications/download/1031/KollerOscarZargaranSepehrNeyHermann--Re-SignRe-AlignedEnd-to-EndSequenceModellingwithDeepRecurrentCNN-HMMs--2017.pdf) [*code*](https://github.com/huerlima/Re-Sign-Re-Aligned-End-to-End-Sequence-Modelling-with-Deep-Recurrent-CNN-HMMs)
-2. **Deep Sign: Hybrid CNN-HMM for Continuous Sign Language Recognition** `BMVC2016` [*paper*](https://pdfs.semanticscholar.org/7b2f/db4a2f79a638ad6c5328cd2860b63fdfc100.pdf) *code*
-
-#### CNN
-
 1. **Human-like sign-language learning method using deep learning** `ETRI2018` [*paper*](https://onlinelibrary.wiley.com/doi/pdf/10.4218/etrij.2018-0066) *code*
-
-#### LSTM
-
-1. **SIGN LANGUAGE RECOGNITION WITH LONG SHORT-TERM MEMORY** `ICIP2016` [*paper*](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7532884) *code*
-
-#### MLP
-
-1. **American Sign Language word recognition with a sensory glove using artificial neural networks** `Eng.Appl.Artif.Intell.2011` [*paper*](https://pdf.sciencedirectassets.com/271095/1-s2.0-S0952197611X00076/1-s2.0-S0952197611001230/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFQaCXVzLWVhc3QtMSJIMEYCIQCDZxnJOHB6ynrfo%2B0eKqcxZx3UyY6n1LVRR2QvdupwOAIhAOfZShxaTYLFHn%2F72DKrv9t%2BmLGlEJRfMa8lgTOzU4PaKr0DCM3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQAhoMMDU5MDAzNTQ2ODY1IgyZF8SDS6TiuKrS8eEqkQOVoR%2BTiMf07fTZ5J84%2FjQZYJwK%2F2xGNhjzM7v5ISMQI%2FCDEm2qvcsc0YpaTk%2B2BbEwYYO7yVzPyexMkyl%2FklBtl4sxrAa9Dfc3wJs%2FbRRSh6JbbF4kX85PQ8%2BnrnZ7at9281HfUYhCVk8Sct75U2C4LdfBKUEvk0R0cf%2FkIzfi9mXF1IQ9oy1fpLG6q49kH28Arx5g3FlNKs3IjR7oIZy4pYkcdNnjd4kJxPtExRWmlFi1nITofQGITzNdsEtDGQIdk7M2HsbHoSlLwgqGirrFCLRnkUJ8XY9HoD4%2Fe%2FqG4q7knK4oshtBBQy3CNVp6X%2FpnkQ%2B2dcBxs9xoWXalwuEsdv8PDtP1MACScDfNIsDoRUA6vjdNzPW3aSPBDjwA6lkEE5StCKn55TXIQ6Zd6Y7IxfjUnMgOFWAQUa%2FvNXoFjzCjwMPZDO4zOsWuW32h3W2%2F3Rf2SSjf%2BBa112eh5%2FNeTV9iddv1TiAvt37jyb7n2xiCipeNYfpVHk1Ocj7367O1QDbwF2FX1byN6ULKJGhCjDSwNrwBTrqAQYivYa%2BOo26NX78i0ddvdNA%2FiTXdcs7U3QUcoG7GB49i8Ufd9mEGbEWZcDu3hYc8dRsq93ETnKKfI64YRfVljn4RfMrWeHghUnxALq448eFfuB5LhIsMDVwyaUE%2BUdD40W1hypCdpcWmgAZYuYJNcCCSPYlmQYd5fn9bFcGZD235aXKzCUntJiWClVCblsgKdzmvupUKOBz3xrTdMbn%2FTjktLpjGO9WnJJ1YGJlsZxQELb4snrTQU8kOUeonYg6rjduZkrE9TO%2Fw898abdJr60xIrx9sVLuWK3vbfDezkJv5xVXrC6CVYQQAw%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200109T045503Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYYZOOW47M%2F20200109%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=f24d01b3b6674ba20289c504c727ffe5cccfec13d342832f6b323c81ec689f1f&hash=4b882e75b9a4d7296ee682513ba3630c7d34190549527aec5c1644be54b5b32b&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0952197611001230&tid=spdf-306582c7-3593-4d10-a68f-e6570a446d78&sid=b06c3dbe4dd5d04d742bcc8-a5a302ee0a5agxrqa&type=client) *code*
-
-#### Markov Model
-
-1. **Sign language recognition using sub-units** `JMLR2012` [*paper*](http://www.jmlr.org/papers/volume13/cooper12a/cooper12a.pdf) *code*
+2. **Re-Sign: Re-Aligned End-to-End Sequence Modelling with Deep Recurrent CNN-HMMs** `CVPR2017` [*paper*](https://www-i6.informatik.rwth-aachen.de/publications/download/1031/KollerOscarZargaranSepehrNeyHermann--Re-SignRe-AlignedEnd-to-EndSequenceModellingwithDeepRecurrentCNN-HMMs--2017.pdf) [*code*](https://github.com/huerlima/Re-Sign-Re-Aligned-End-to-End-Sequence-Modelling-with-Deep-Recurrent-CNN-HMMs)
+3. **Deep Sign: Hybrid CNN-HMM for Continuous Sign Language Recognition** `BMVC2016` [*paper*](https://pdfs.semanticscholar.org/7b2f/db4a2f79a638ad6c5328cd2860b63fdfc100.pdf) *code*
+4. **SIGN LANGUAGE RECOGNITION WITH LONG SHORT-TERM MEMORY** `ICIP2016` [*paper*](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7532884) *code*
+5. **Curve Matching from the View of Manifold for Sign Language Recognition** `ACCV2014` [*paper*](http://whdeng.cn/FSLCV14/pdffiles/w12-o7.pdf) *code*
+6. **Sign language recognition using sub-units** `JMLR2012` [*paper*](http://www.jmlr.org/papers/volume13/cooper12a/cooper12a.pdf) *code*
+7. **American Sign Language word recognition with a sensory glove using artificial neural networks** `Eng.Appl.Artif.Intell.2011` [*paper*](https://pdf.sciencedirectassets.com/271095/1-s2.0-S0952197611X00076/1-s2.0-S0952197611001230/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFQaCXVzLWVhc3QtMSJIMEYCIQCDZxnJOHB6ynrfo%2B0eKqcxZx3UyY6n1LVRR2QvdupwOAIhAOfZShxaTYLFHn%2F72DKrv9t%2BmLGlEJRfMa8lgTOzU4PaKr0DCM3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQAhoMMDU5MDAzNTQ2ODY1IgyZF8SDS6TiuKrS8eEqkQOVoR%2BTiMf07fTZ5J84%2FjQZYJwK%2F2xGNhjzM7v5ISMQI%2FCDEm2qvcsc0YpaTk%2B2BbEwYYO7yVzPyexMkyl%2FklBtl4sxrAa9Dfc3wJs%2FbRRSh6JbbF4kX85PQ8%2BnrnZ7at9281HfUYhCVk8Sct75U2C4LdfBKUEvk0R0cf%2FkIzfi9mXF1IQ9oy1fpLG6q49kH28Arx5g3FlNKs3IjR7oIZy4pYkcdNnjd4kJxPtExRWmlFi1nITofQGITzNdsEtDGQIdk7M2HsbHoSlLwgqGirrFCLRnkUJ8XY9HoD4%2Fe%2FqG4q7knK4oshtBBQy3CNVp6X%2FpnkQ%2B2dcBxs9xoWXalwuEsdv8PDtP1MACScDfNIsDoRUA6vjdNzPW3aSPBDjwA6lkEE5StCKn55TXIQ6Zd6Y7IxfjUnMgOFWAQUa%2FvNXoFjzCjwMPZDO4zOsWuW32h3W2%2F3Rf2SSjf%2BBa112eh5%2FNeTV9iddv1TiAvt37jyb7n2xiCipeNYfpVHk1Ocj7367O1QDbwF2FX1byN6ULKJGhCjDSwNrwBTrqAQYivYa%2BOo26NX78i0ddvdNA%2FiTXdcs7U3QUcoG7GB49i8Ufd9mEGbEWZcDu3hYc8dRsq93ETnKKfI64YRfVljn4RfMrWeHghUnxALq448eFfuB5LhIsMDVwyaUE%2BUdD40W1hypCdpcWmgAZYuYJNcCCSPYlmQYd5fn9bFcGZD235aXKzCUntJiWClVCblsgKdzmvupUKOBz3xrTdMbn%2FTjktLpjGO9WnJJ1YGJlsZxQELb4snrTQU8kOUeonYg6rjduZkrE9TO%2Fw898abdJr60xIrx9sVLuWK3vbfDezkJv5xVXrC6CVYQQAw%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200109T045503Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYYZOOW47M%2F20200109%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=f24d01b3b6674ba20289c504c727ffe5cccfec13d342832f6b323c81ec689f1f&hash=4b882e75b9a4d7296ee682513ba3630c7d34190549527aec5c1644be54b5b32b&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0952197611001230&tid=spdf-306582c7-3593-4d10-a68f-e6570a446d78&sid=b06c3dbe4dd5d04d742bcc8-a5a302ee0a5agxrqa&type=client) *code*
+8. **Learning sign language by watching TV (using weakly aligned subtitles)** `CVPR2009` [*paper*](https://www.robots.ox.ac.uk/~vgg/publications/2009/Buehler09/buehler09.pdf) *code*
 
 
 
