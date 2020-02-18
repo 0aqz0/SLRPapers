@@ -116,11 +116,12 @@ papers on sign language recognition and related fields
 7. **DynamoNet: Dynamic Action and Motion Network** `ICCV2019` [*paper*](https://arxiv.org/pdf/1904.11407.pdf) *code*
 8. **Graph Convolutional Networks for Temporal Action Localization** `ICCV2019` [*paper*](https://arxiv.org/pdf/1909.03252) [*code*](https://github.com/Alvin-Zeng/PGCN)
 9. **Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet?** `CVPR2018` [*paper*](https://arxiv.org/pdf/1711.09577.pdf) [*code*](https://github.com/kenshohara/3D-ResNets-PyTorch)
-10. **Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition** `AAAI2018` [*paper*](https://arxiv.org/pdf/1801.07455.pdf) [*code*](https://github.com/yysijie/st-gcn)
-11. **Co-occurrence Feature Learning from Skeleton Data for Action Recognition and Detection with Hierarchical Aggregation** `IJCAI2018` [*paper*](https://arxiv.org/pdf/1804.06055) [*code*](https://github.com/huguyuehuhu/HCN-pytorch)
-12. **Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset** `CVPR2017` [*paper*](https://arxiv.org/pdf/1705.07750.pdf) [*code*](https://github.com/deepmind/kinetics-i3d)
-13. **Action Recognition with Trajectory-Pooled Deep-Convolutional Descriptors** `CVPR2015` [*paper*](https://arxiv.org/pdf/1505.04868) [*code*](https://github.com/wanglimin/TDD)
-14. **Two-Stream Convolutional Networks for Action Recognition in Videos** `NIPS2014` [*paper*](https://arxiv.org/pdf/1406.2199.pdf) [*code*](https://github.com/jeffreyyihuang/two-stream-action-recognition)
+10. **A Closer Look at Spatiotemporal Convolutions for Action Recognition** `CVPR2018` [*paper*](https://arxiv.org/pdf/1711.11248.pdf) [*code*](https://github.com/facebookresearch/VMZ)
+11. **Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition** `AAAI2018` [*paper*](https://arxiv.org/pdf/1801.07455.pdf) [*code*](https://github.com/yysijie/st-gcn)
+12. **Co-occurrence Feature Learning from Skeleton Data for Action Recognition and Detection with Hierarchical Aggregation** `IJCAI2018` [*paper*](https://arxiv.org/pdf/1804.06055) [*code*](https://github.com/huguyuehuhu/HCN-pytorch)
+13. **Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset** `CVPR2017` [*paper*](https://arxiv.org/pdf/1705.07750.pdf) [*code*](https://github.com/deepmind/kinetics-i3d)
+14. **Action Recognition with Trajectory-Pooled Deep-Convolutional Descriptors** `CVPR2015` [*paper*](https://arxiv.org/pdf/1505.04868) [*code*](https://github.com/wanglimin/TDD)
+15. **Two-Stream Convolutional Networks for Action Recognition in Videos** `NIPS2014` [*paper*](https://arxiv.org/pdf/1406.2199.pdf) [*code*](https://github.com/jeffreyyihuang/two-stream-action-recognition)
 
 
 
