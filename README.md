@@ -76,7 +76,7 @@ papers on sign language recognition and related fields
 3. **Deep Hand: How to Train a CNN on 1 Million Hand Images When Your Data is Continuous and Weakly Labelled** `CVPR2016` [*paper*](https://www-i6.informatik.rwth-aachen.de/publications/download/1000/KollerOscarNeyHermannBowdenRichard--DeepHHowtoTrainaCNNon1MillionHImagesWhenYourDataIsContinuousWeaklyLabelled--2016.pdf) *code*
 4. **Deep Sign: Hybrid CNN-HMM for Continuous Sign Language Recognition** `BMVC2016` [*paper*](https://pdfs.semanticscholar.org/7b2f/db4a2f79a638ad6c5328cd2860b63fdfc100.pdf) *code*
 5. **SIGN LANGUAGE RECOGNITION WITH LONG SHORT-TERM MEMORY** `ICIP2016` [*paper*](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7532884) *code*
-6. **Iterative Reference Driven Metric Learning for Signer Independent Isolated Sign Language Recognition. ** `ECCV2016` [*paper*](http://vipl.ict.ac.cn/uploadfile/upload/2018112115134267.pdf) *code*
+6. **Iterative Reference Driven Metric Learning for Signer Independent Isolated Sign Language Recognition.** `ECCV2016` [*paper*](http://vipl.ict.ac.cn/uploadfile/upload/2018112115134267.pdf) *code*
 7. **Automatic Alignment of HamNoSys Subunits for Continuous Sign Language Recognition** `LREC2016` [*paper*](https://pdfs.semanticscholar.org/f6a3/c3ab709eebc91f9639fe6d26b7736c3115b2.pdf?_ga=2.172107747.1969091582.1582720499-418088591.1578543327) *code*
 8. **Curve Matching from the View of Manifold for Sign Language Recognition** `ACCV2014` [*paper*](http://whdeng.cn/FSLCV14/pdffiles/w12-o7.pdf) *code*
 9. **Sign Language Recognition and Translation with Kinect** `AFGR2013` [*paper*](https://pdfs.semanticscholar.org/0450/ecef50fd1f532fe115c5d32c7c3ebed6fd80.pdf?_ga=2.205538387.1969091582.1582720499-418088591.1578543327) *code*
