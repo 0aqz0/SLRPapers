@@ -38,7 +38,7 @@ papers on sign language recognition and related fields
 
 *CNN includes 2D CNN and 3D CNN, and RNN includes LSTM and BLSTM.*
 
-1. **SF-Net: Structured Feature Network for Continuous Sign Language Recognition** `CVPR2019` [*paper*](https://arxiv.org/pdf/1908.01341.pdf) *code*
+1. **SF-Net: Structured Feature Network for Continuous Sign Language Recognition** `ArXiv2019` [*paper*](https://arxiv.org/pdf/1908.01341.pdf) *code*
 2. **Iterative Alignment Network for Continuous Sign Language** `CVPR2019` [*paper*](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pu_Iterative_Alignment_Network_for_Continuous_Sign_Language_Recognition_CVPR_2019_paper.pdf) *code*
 3. **Fingerspelling recognition in the wild with iterative visual attention** `ICCV2019` [*paper*](https://arxiv.org/pdf/1908.10546.pdf) *code*
 4. **Zero-Shot Sign Language Recognition: Can Textual Data Uncover Sign Languages?** `BMVC2019` [*paper*](https://arxiv.org/pdf/1907.10292.pdf) *code*
