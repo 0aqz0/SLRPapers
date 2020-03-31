@@ -148,3 +148,9 @@ papers on sign language recognition and related fields
 8. **New types of deep neural network learning for speech recognition and related applications: an overview** `ICASSP2013` [*paper*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6639344) *code*
 9. **Speech Recognition with Deep Recurrent Neural Networks** `ICASSP2013` [*paper*](https://arxiv.org/pdf/1303.5778.pdf) [*code*](https://github.com/lucko515/speech-recognition-neural-network)
 
+
+
+### Video Captioning
+
+1. **Video Description A Survey of Methods, Datasets and Evaluation Metrics** `ACM Computing Surveys2019` [*paper*](https://arxiv.org/pdf/1806.00186.pdf) *code*
+
