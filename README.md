@@ -153,4 +153,11 @@ papers on sign language recognition and related fields
 ### Video Captioning
 
 1. **Video Description A Survey of Methods, Datasets and Evaluation Metrics** `ACM Computing Surveys2019` [*paper*](https://arxiv.org/pdf/1806.00186.pdf) *code*
+2. **Spatio-Temporal Dynamics and Semantic Attribute Enriched Visual Encoding for Video Captioning** `CVPR2019` [*paper*](https://arxiv.org/pdf/1902.10322.pdf) *code*
+3. **Reconstruction Network for Video Captioning** `CVPR2018` [*paper*](https://arxiv.org/pdf/1803.11438.pdf) [*code*](https://github.com/hobincar/RecNet)
+4. **Interpretable Video Captioning via Trajectory Structured Localization** `CVPR2018` [*paper*](https://zpascal.net/cvpr2018/Wu_Interpretable_Video_Captioning_CVPR_2018_paper.pdf) *code*
+5. **Video Captioning with Transferred Semantic Attributes** `CVPR2017` [*paper*](https://arxiv.org/pdf/1611.07675.pdf) *code*
+6. **Video Paragraph Captioning Using Hierarchical Recurrent Neural Networks** `CVPR2016` [*paper*](https://arxiv.org/pdf/1510.07712.pdf) *code*
+7. **Jointly Modeling Embedding and Translation to Bridge Video and Language** `CVPR2016` [*paper*](http://openaccess.thecvf.com/content_cvpr_2016/papers/Pan_Jointly_Modeling_Embedding_CVPR_2016_paper.pdf) *code*
+8. **Describing Videos by Exploiting Temporal Structure** `ICCV2015` [*paper*](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Yao_Describing_Videos_by_ICCV_2015_paper.pdf) [*code*](https://github.com/yaoli/arctic-capgen-vid)
 
