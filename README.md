@@ -45,11 +45,13 @@ papers on sign language recognition and related fields
 4. **Zero-Shot Sign Language Recognition: Can Textual Data Uncover Sign Languages?** `BMVC2019` [*paper*](https://arxiv.org/pdf/1907.10292.pdf) *code*
 5. **Sign Language Recognition Analysis using Multimodal Data** `DSAA2019` [*paper*](https://arxiv.org/pdf/1909.11232.pdf) *code*
 6. **Dynamic Sign Language Recognition Based on Video Sequence With BLSTM-3D Residual Networks** `ACCESS2019` [*paper*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8667292) *code*
-7. **Hierarchical LSTM for Sign Language Translation** `AAAI2018` [*paper*](https://pdfs.semanticscholar.org/d44c/20c48e764a546d00b9155a56b171b0dc04bc.pdf) *code*
-8. **Neural Sign Language Translation** `CVPR2018` [*paper*](http://openaccess.thecvf.com/content_cvpr_2018/papers/Camgoz_Neural_Sign_Language_CVPR_2018_paper.pdf) [*code*](https://github.com/neccam/nslt)
-9. **SubUNets: End-to-End Hand Shape and Continuous Sign Language Recognition** `ICCV2017` [*paper*](http://openaccess.thecvf.com/content_ICCV_2017/papers/Camgoz_SubUNets_End-To-End_Hand_ICCV_2017_paper.pdf) [*code*](https://github.com/neccam/SubUNets)
-10. **Recurrent Convolutional Neural Networks for Continuous Sign Language Recognition by Staged Optimization** `CVPR2017` [*paper*](http://openaccess.thecvf.com/content_cvpr_2017/papers/Cui_Recurrent_Convolutional_Neural_CVPR_2017_paper.pdf) *code*
-11. **Online Detection and Classification of Dynamic Hand Gestures with Recurrent 3D Convolutional Neural Networks** `CVPR2016` [*paper*](https://research.nvidia.com/sites/default/files/pubs/2016-06_Online-Detection-and/NVIDIA_R3DCNN_cvpr2016.pdf) *code*
+7. **Attention in Convolutional LSTM for Gesture Recognition** `NIPS2018` [*paper*](http://papers.nips.cc/paper/7465-attention-in-convolutional-lstm-for-gesture-recognition.pdf) [*code*](https://github.com/GuangmingZhu/AttentionConvLSTM)
+8. **Hierarchical LSTM for Sign Language Translation** `AAAI2018` [*paper*](https://pdfs.semanticscholar.org/d44c/20c48e764a546d00b9155a56b171b0dc04bc.pdf) *code*
+9. **Neural Sign Language Translation** `CVPR2018` [*paper*](http://openaccess.thecvf.com/content_cvpr_2018/papers/Camgoz_Neural_Sign_Language_CVPR_2018_paper.pdf) [*code*](https://github.com/neccam/nslt)
+10. **SubUNets: End-to-End Hand Shape and Continuous Sign Language Recognition** `ICCV2017` [*paper*](http://openaccess.thecvf.com/content_ICCV_2017/papers/Camgoz_SubUNets_End-To-End_Hand_ICCV_2017_paper.pdf) [*code*](https://github.com/neccam/SubUNets)
+11. **Recurrent Convolutional Neural Networks for Continuous Sign Language Recognition by Staged Optimization** `CVPR2017` [*paper*](http://openaccess.thecvf.com/content_cvpr_2017/papers/Cui_Recurrent_Convolutional_Neural_CVPR_2017_paper.pdf) *code*
+12. **Learning Spatiotemporal Features Using 3DCNN and Convolutional LSTM for Gesture Recognition** `ICCV2017` [*paper*](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w44/Zhang_Learning_Spatiotemporal_Features_ICCV_2017_paper.pdf) [*code*](https://github.com/GuangmingZhu/Conv3D_BICLSTM)
+13. **Online Detection and Classification of Dynamic Hand Gestures with Recurrent 3D Convolutional Neural Networks** `CVPR2016` [*paper*](https://research.nvidia.com/sites/default/files/pubs/2016-06_Online-Detection-and/NVIDIA_R3DCNN_cvpr2016.pdf) *code*
 
 
 
