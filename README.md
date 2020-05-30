@@ -99,8 +99,8 @@ papers on sign language recognition and related fields
 | ------------------------------------------------------------ | ----------- | ------- | ------- | ---------------------------- | :------------- |
 | **[CSL Dataset I](http://home.ustc.edu.cn/~pjh/openresources/cslr-dataset-2015/index.html)** | Chinese     | 500     | 125,000 | Videos&Depth from Kinect     | isolated       |
 | **[CSL Dataset II](http://home.ustc.edu.cn/~pjh/openresources/cslr-dataset-2015/index.html)** | Chinese     | 100     | 25,000  | Videos&Depth from Kinect     | continuous     |
-| **[RWTH-PHOENIX-Weather 2014](https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX/)** | German      | 1,200   | 45,760  | Videos                       | continuous     |
-| [**RWTH-PHOENIX-Weather 2014 T**](https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX-2014-T/) | German      | ???     | ???     | Videos                       | continuous     |
+| **[RWTH-PHOENIX-Weather 2014](https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX/)** | German      | 1,081   | 6,841   | Videos                       | continuous     |
+| [**RWTH-PHOENIX-Weather 2014 T**](https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX-2014-T/) | German      | 1,066   | 8,257   | Videos                       | continuous     |
 | **[ASLLVD](http://www.bu.edu/asllrp/av/dai-asllvd.html)**    | American    | 3,300   | 9,800   | Videos(multiple angles)      | isolated       |
 | **[ASLLVD-Skeleton](https://www.cin.ufpe.br/~cca5/asllvd-skeleton/)** | American    | 3,300   | 9,800   | Skeleton                     | isolated       |
 | **[SIGNUM](https://www.phonetik.uni-muenchen.de/forschung/Bas/SIGNUM/)** | German      | 450     | 33,210  | Videos                       | continuous     |
